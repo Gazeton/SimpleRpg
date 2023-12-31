@@ -1,0 +1,9 @@
+Miasto,1
+czarnoLas,1,2,103
+Opuszczona œwi¹tynia,2,1,100
+Zaginione miasto,9,9,1
+Las,5,0,100
+Podziemia ,1,7,104
+Umys³,11,105
+Królestwo,12,102
+Dolina Mroku,13,103

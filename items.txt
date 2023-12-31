@@ -1,0 +1,13 @@
+nic,0,0,0,0,0,KEY_ITEM
+Zardzewia³y miecz,5,0,1,0,0,WEAPON
+garnek,4,0,0,1,1,ARMOR
+klucz,3,0,0,2,1,KEY_ITEM
+sztylet,7,0,2,0,0,WEAPON
+miecz,15,0,2,1,0,WEAPON
+luk,25,0,5,0,0,WEAPON
+Helm,10,0,0,2,4,ARMOR
+zbroja ¿elazna ,50,0,0,3,10,ARMOR
+buty ,5,0,0,2,5,ARMOR
+mikstura lecznicza,3,5,0,0,0,CONSUMABLE
+pieczony ziemniak ,3,3,0,0,0,CONSUMABLE
+Z³ota Patelka,99,0,10,1,1,WEAPON

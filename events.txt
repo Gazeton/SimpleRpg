@@ -1,0 +1,7 @@
+zardzewiala szkrzynia,zardzewiala skrzynia 5 z³ota,REDWARD,0,0,1
+Zaginione miasto, Bohater odkrywa tajemnicze ruiny zaginionego miasta które uznawano za legendarne. W miarê jak przemierza opuszczone ulice odkrywa skrzynie aby j¹ otworzyæ musi pokonaæ niebezpieczeñstwo.,REDWARD,0,0,6
+Epidemia i Leczenie, Tajemnicza epidemia rozprzestrzenia siê w królestwie a klucz do lekarstwa le¿y w odleg³ym zak¹tku œwiata. ,REDWARD,0,0,10
+Zaklête Zwierzêta,Magiczne stworzenia w regionie zaczynaj¹ siê dziwnie zachowywaæ atakuj¹c mieszkañców.,TRAP,0,2,4
+Zaginione Skarby wojenne,Odnajdujesz zapomnian¹ kryjówkê wojenn¹ w której ukryto cenne skarby,REDWARD,0,0,5
+Wewnêtrzna walka ,Zaczynasz doœwiadczaæ wizji i koszmarów które zdaj¹ siê byæ zwi¹zane z jakimœ mrocznym sekretem z przesz³oœci. Musisz zmierzyc sie z wlasnymiu demonami,REDWARD,0,0,7
+Sklep,Podczas ucieczki wchodzisz do jaskini aby sie schronic,SHOP,1,0,0

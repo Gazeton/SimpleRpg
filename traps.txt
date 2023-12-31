@@ -1,0 +1,6 @@
+pulapka na niedzwiedzie, zrobiles nieuwarzny krok i wpadles na plapke na niedzwiedzie tracac 3hp,3
+Napad, Napada cie zombie, 5
+Spotkanie z wiedzma, W lesie spotykasz dziwną kobiete prosi cię o pomoc lecz odmawiasz. Kobieta rzuca na ciebie czar przez który tracisz zmysły.,9
+Sieć Cieni, Wchodzisz do pokoju który wydaje sie byc pusty ale nagle zostaje otoczony przez gęstą sieć cieni. Kazdy krok powoduje wystrzal strzal zadajac obrazenia.,6
+Ślepota, Na świecie panuje dziwna choroba na którą zapadasz. Choroba powoduje dezorientacje i zamazuje widzenie. Musisz polegac na innych zmyslach.,4
+Sypiący się sufit, W pomieszceniu którym jestes zaczynaja kruszyc sie fragmenty sufitu. Wydostajesz się z pomieszczenia lecz posiadasz liczne skaleczenia.,5

@@ -1,0 +1,11 @@
+slime,7,1,0,1
+Szkielet,4,2,0,2
+Wampir,8,1,0,5
+smok,55,5,6,25
+Wilkolak,10,2,1,2
+Syrena,12,3,0,8
+Kraken ,5,4,6,2
+Kamienny Golem,6,5,6,6
+Zaba Aba,100,1,1,20
+Pajak,5,3,0,6
+Zombie ,7,2,1,4

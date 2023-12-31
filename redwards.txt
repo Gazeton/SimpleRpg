@@ -1,0 +1,8 @@
+Skrzynia, Zauwarzasz zardzewiala szkrzynie w ktorej znajdujesz 5 sztuk zlota.,5,0
+Stary miecz ,Wychodz¹c z tawerny znalazles wystajacy miecz z trupa i postanowiles go zabrac.,1,1
+Sakiewka,Sakiewka z monetamiNa brzegu rzeki znalazles skaiewke z monetami rozgladasz sie lecz nikogo nie widzisz znalezione niekradzione.,20,0
+opuszczony ³uk, Prezchodz¹c przez las znajdujesz zawieszony ³uk na ga³eziach drzewa ,0,6
+Monety, Na ziemi znajdujesz le¿¹ce monety,5,0
+Miecz, Pod stert¹ ksi¹¿ek znajdujesz miecz,20, 5
+Cenna bi¿uteria, Cenna bi¿uteria Jest du¿o warta wiêc j¹ sprzedajesz,30,0
+Dostajesz z³oto, znajdujesz 15 z³ota,15, 0
