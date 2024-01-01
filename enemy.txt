@@ -8,4 +8,7 @@ Kraken ,5,4,6,2
 Kamienny Golem,6,5,6,6
 Zaba Aba,100,1,1,20
 Pajak,5,3,0,6
-Zombie ,7,2,1,4
+Zombie,7,2,1,4
+Koszmar,10,26,5,30
+Choroba,30,23,11,50
+Mroczne Wilki,29,11,4,10
